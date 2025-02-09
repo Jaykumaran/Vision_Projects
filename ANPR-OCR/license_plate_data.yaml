@@ -1,0 +1,5 @@
+names:
+  0: License Plate
+path: /home/jaykumaran/Vision_Projects/ANPR-OCR/Dataset
+train: train/images
+val: valid/images
